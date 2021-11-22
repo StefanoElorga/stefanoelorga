@@ -1,22 +1,30 @@
-### Hey! Stef here
+### Hi 👋, I'm Stefano Elorga
+I'm a fullstack developer i like both Frontend and the Backend, I'm love challenges and learn everyday🤓
+🌱 I’m currently learning ReactNative
 
-- 📚 Studying at Henry Bootcamp
-- 🌐 Let's connect on Linkedin: https://www.linkedin.com/in/stefanoelorga/
+📫 How to reach me stefanoelorga22@gmail.com
 
-### A few of my skills:
+🌐 Portfolio in progress...
 
-- 😝 React, Redux, NodeJS, Express, PostgreSQL, Sequelize, Javascript, HTML, TailWind and CSS
-- 🙊 English, Spanish and Portuguese
-- 🐱 SCRUM methodologies
-
-### Projects:
-FOOD (individualmente);
-sistema de búsqueda por nombre similar, filtrado por
-distintos tipos de dieta, ordenamiento por nombre (A-Z,
-Z-A) y por puntaje (Mayor-Menor, Menor-Mayor), formulario
-de creación de receta, paginado, ruta de detalle de receta.
-Manejo de componentes y estados con React y Redux.
-Creación de base de datos relacional con postgreSQL y
-sequelize con un backend desarrollado en express.
+📚 studing at Henry Bootcamp
 
 
+
+
+### Projects
+### 🍗 Food
+I developed a SPA (Single Page Appllication) Using tecnologies like React, Redux and Css for frontend, the SPA consume data from Spoonacular API across backend developed in Node.JS ussing Express. 
+![home](https://user-images.githubusercontent.com/71985848/142907140-a586bb93-9a5d-4b34-a725-8bb9b931016a.jpg)
+
+
+
+### Some skills
+💻 Front end:React, Redux, CSS and JavaScript
+
+💻 Back end:NodeJS, Express
+
+💻 DataBase:PostgreSQL
+
+💻 Others:Git, Bootstrap
+
+🤝 Soft Skills:SCRUM, Fast Learning, Team Player, Organization 
