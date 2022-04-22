@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Stefano Elorga
 I'm a fullstack developer i like both Frontend and the Backend, I'm love challenges and learn everyday🤓
-🌱 I’m currently learning ReactNative
+🌱 I’m currently learning Vue.js
 
 📫 How to reach me stefanoelorga22@gmail.com
 
@@ -19,7 +19,7 @@ I developed a SPA (Single Page Appllication) Using tecnologies like React, Redux
 
 
 ### Some skills
-💻 Front end:React, Redux, CSS and JavaScript
+💻 Front end:React, Redux, CSS and JavaScript, ReactNative
 
 💻 Back end:NodeJS, Express
 
