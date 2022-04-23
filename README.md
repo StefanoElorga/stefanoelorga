@@ -10,15 +10,13 @@ I'm a Full Stack Developer. I love challenges and learning everyday🤓
 📚 I studied at Henry Bootcamp
 
 ### Some skills
-💻 Front end: React, Redux, CSS and JavaScript, ReactNative
+💻 Front end: React, Redux, ReactNative, JavaScript, CSS, and HTML
 
-💻 Back end: NodeJS, Express
+💻 Back end: NodeJS, Express, PostgreSQL, and Sequelize
 
-💻 DataBase: PostgreSQL
+💻 Other: Git and Bootstrap
 
-💻 Others: Git, Bootstrap
-
-🤝 Soft Skills: SCRUM, Fast Learning, Team Player, Organization 
+🤝 Soft Skills: SCRUM, Fast Learner, and Team Player
 
 
 
