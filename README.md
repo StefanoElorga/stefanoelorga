@@ -9,6 +9,16 @@ I'm a Full Stack Developer. I love challenges and learning everyday🤓
 
 📚 I studied at Henry Bootcamp
 
+### Some skills
+💻 Front end: React, Redux, CSS and JavaScript, ReactNative
+
+💻 Back end: NodeJS, Express
+
+💻 DataBase: PostgreSQL
+
+💻 Others: Git, Bootstrap
+
+🤝 Soft Skills: SCRUM, Fast Learning, Team Player, Organization 
 
 
 
@@ -29,13 +39,4 @@ It is a cycling app that records your ride, monitors your training and keeps tra
 ![libert](https://user-images.githubusercontent.com/71985848/164945070-a226b899-9b15-4acd-8f1d-31a8bb5422c1.png)
 
 
-### Some skills
-💻 Front end:React, Redux, CSS and JavaScript, ReactNative
 
-💻 Back end:NodeJS, Express
-
-💻 DataBase:PostgreSQL
-
-💻 Others:Git, Bootstrap
-
-🤝 Soft Skills:SCRUM, Fast Learning, Team Player, Organization 
