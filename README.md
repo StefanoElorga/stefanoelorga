@@ -5,7 +5,7 @@ I'm a Full Stack Developer. I love challenges and learning everyday🤓
 
 📫 stefanoelorga22@gmail.com
 
-🌐 Portfolio in progress...
+🌐 https://stefanoelorga.vercel.app
 
 📚 I studied at Henry Bootcamp
 
