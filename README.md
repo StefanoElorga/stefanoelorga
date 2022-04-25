@@ -33,7 +33,8 @@ It is a cycling app that records your ride, monitors your training and keeps tra
 
 • Technologies: React Native, Redux, CSS, Node JS, Express, Mongoose.
 
-• My main contribution to the project: Nesting and deleting friends, accepting and rejecting friend requests, friend list screen and request list, user search by similar name, main screen (Activity). frontend.
+• My main contribution to the project: Nesting and deleting friends, accepting and rejecting friend requests, friend list screen and request list, user search by similar name, main screen (Activity).
+
 <img src="https://user-images.githubusercontent.com/71985848/164945070-a226b899-9b15-4acd-8f1d-31a8bb5422c1.png" width="50%">
 
 
