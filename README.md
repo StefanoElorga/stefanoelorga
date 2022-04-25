@@ -25,6 +25,7 @@ I'm a Full Stack Developer. I love challenges and learning everyday🤓
 I developed a SPA (Single Page Application) using technologies like React, Redux, and CSS for frontend. The SPA gets its data from Spoonacular API. The Backend was developed in Node.JS with Express.
 
 This project includes functionalities like sorting, filtering, pagination, searching, food details, and also you can create your own recipe. For example some of the characteristics are: type of diet, healthy level, name, description, and more. 
+<img src="https://user-images.githubusercontent.com/71985848/142907140-a586bb93-9a5d-4b34-a725-8bb9b931016a.jpg" alt="Girl in a jacket" width="500" height="600">
 ![home](https://user-images.githubusercontent.com/71985848/142907140-a586bb93-9a5d-4b34-a725-8bb9b931016a.jpg)
 
 ### 🚴‍♀️ LibertFiets
