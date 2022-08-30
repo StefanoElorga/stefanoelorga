@@ -9,7 +9,6 @@ I am passionate about problem solving and creativity in harmony. I love to learn
 * 🌍  I'm based in Argentina, Buenos Aires
 * 🖥️  See my portfolio at [My portfolio](http://stefanoelorga.vercel.app)
 * ✉️  You can contact me at [stefanoelorga22@gmail.com](mailto:stefanoelorga22@gmail.com)
-* 🚀  I'm currently working on [Henry FoodApp](http://henryfoodapp.vercel.app)
 * 🧠  I'm learning Vue.js
 * 🤝  I'm open to collaborating on Mobile and web applications
 
