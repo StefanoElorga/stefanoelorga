@@ -7,7 +7,7 @@ Full stack developer
 I am passionate about problem solving and creativity in harmony. I love to learn new technologies and create beautiful web pages. I always want users to have a great experience with my creations. Some of my skills are HTML, CSS, SASS, TypeScript, JavaScript, React, ReactNative, Redux, NodeJS, Express, PostgreSQL and Sequelize. I know how to work using the scrum methodology.
 
 * 🌍  I'm based in Argentina, Buenos Aires
-* 🖥️  See my portfolio at [My portfolio] ([http://stefanoelorga.vercel.app](https://stefanoelorga-snowy.vercel.app])
+* 🖥️  See my portfolio at  [My portfolio](https://stefanoelorga-snowy.vercel.app])
 * ✉️  You can contact me at [stefanoelorga22@gmail.com](mailto:stefanoelorga22@gmail.com)
 * 🧠  I'm learning Vue.js
 * 🤝  I'm open to collaborating on Mobile and web applications
