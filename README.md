@@ -53,7 +53,7 @@ To achieve a sleek and attractive design, I was inspired by Tailwind CSS. This w
 
 See the page at [El Ceibo](https://elceibo.shop)
 
-<img src="https://user-images.githubusercontent.com/71985848/142907140-a586bb93-9a5d-4b34-a725-8bb9b931016a.jpg" width="50%">
+![el ceibo](https://github.com/StefanoElorga/stefanoelorga/assets/71985848/d6c73112-7e40-4c2e-be95-45e9b7e40ca0)
 
 
 ### 🚴‍♀️ LiberFiets
