@@ -4,12 +4,11 @@ Hi 👋 My name is Stefano Elorga
 Full stack developer
 --------------------
 
-I am passionate about problem solving and creativity in harmony. I love to learn new technologies and create beautiful web pages. I always want users to have a great experience with my creations. Some of my skills are HTML, CSS, SASS, TypeScript, JavaScript, React, ReactNative, Redux, NodeJS, Express, PostgreSQL and Sequelize. I know how to work using the scrum methodology.
+I am passionate about problem solving and creativity in harmony. I love to learn new technologies and create beautiful web pages. I always want users to have a great experience with my creations. Some of my skills are HTML, CSS, SASS, TailWind, JavaScript, React, ReactNative, Redux, NodeJS, Express, PostgreSQL and Sequelize. I know how to work using the scrum methodology.
 
 * 🌍  I'm based in Argentina, Buenos Aires
-* 🖥️  See my portfolio at  [My portfolio](https://stefanoelorga-snowy.vercel.app)
+* 🖥️  See my portfolio at  [My portfolio](https://stefanoelorga.vercel.app)
 * ✉️  You can contact me at [stefanoelorga22@gmail.com](mailto:stefanoelorga22@gmail.com)
-* 🧠  I'm learning Vue.js
 * 🤝  I'm open to collaborating on Mobile and web applications
 
 ### Skills
@@ -45,10 +44,14 @@ I am passionate about problem solving and creativity in harmony. I love to learn
 
 
 ### Projects
-### 🍗 Food
-I developed a SPA (Single Page Application) using technologies like React, Redux, and CSS for frontend. The SPA gets its data from Spoonacular API. The Backend was developed in Node.JS with Express.
+### 🍗 El Ceibo
+I developed a dedicated page for "el Ceibo" an Argentine food place located in Spain. I used a combination of cutting-edge technologies, including React, Javascript, Tailwind, and Framer Motion, to achieve amazing results.
 
-This project includes functionalities like sorting, filtering, pagination, searching, food details, and also you can create your own recipe. For example some of the characteristics are: type of diet, healthy level, name, description, and more. 
+With React, I was able to build an interactive and efficient user interface. I kept a state of the application efficiently. Thanks to this, I was able to focus on offering a smooth and attractive user experience.
+
+To achieve a sleek and attractive design, I was inspired by Tailwind CSS. This wonderful tool allowed me to use predefined classes to quickly style my components for a consistent look across the page. Additionally, Tailwind gave me the flexibility to customize and adjust the styles to my specific needs.
+
+See the page at [El Ceibo](https://elceibo.shop)
 
 <img src="https://user-images.githubusercontent.com/71985848/142907140-a586bb93-9a5d-4b34-a725-8bb9b931016a.jpg" width="50%">
 
