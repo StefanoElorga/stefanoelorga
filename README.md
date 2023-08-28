@@ -1,17 +1,19 @@
-Hi 👋 My name is Stefano Elorga
+Hola 👋 Soy Stefano Elorga
 ===============================
 
-Full stack developer
+Desarrollador Full Stack
 --------------------
 
-I am passionate about problem solving and creativity in harmony. I love to learn new technologies and create beautiful web pages. I always want users to have a great experience with my creations. Some of my skills are HTML, CSS, SASS, TailWind, JavaScript, React, ReactNative, Redux, NodeJS, Express, PostgreSQL and Sequelize. I know how to work using the scrum methodology.
+Un full stack developer apasionado por la resolución de problemas y la creatividad en armonía.
+Encantado por aprender nuevas tecnologías y crear páginas web hermosas.
+Interesado en el desarrollo de aplicaciones móviles, e-commerces, redes sociales y mucho más. Algunas de mis habilidades son HTML, CSS, SASS, TailWind, JavaScript, React, ReactNative, Redux, NodeJS, Express, PostgreSQL y Sequelize. 
 
-* 🌍  I'm based in Argentina, Buenos Aires
-* 🖥️  See my portfolio at  [My portfolio](https://stefanoelorga.vercel.app)
-* ✉️  You can contact me at [stefanoelorga22@gmail.com](mailto:stefanoelorga22@gmail.com)
-* 🤝  I'm open to collaborating on Mobile and web applications
+* 🌍  Argentina, Buenos Aires
+* 🖥️  Mi portafolio  [My portfolio](https://stefanoelorga.vercel.app)
+* ✉️  Contactame [stefanoelorga22@gmail.com](mailto:stefanoelorga22@gmail.com)
+* 🤝  Estoy abierto a colaborar en aplicaciones moviles y páginas webs
 
-### Skills
+### Habilidades
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -30,11 +32,11 @@ I am passionate about problem solving and creativity in harmony. I love to learn
 </p>
 
 
-### Socials
+### Redes
 
 <p align="left"> <a href="https://www.github.com/stefanoelorga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/stefanoelorga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Estadisticas
 
 <b>My GitHub Stats</b>
 
@@ -43,26 +45,26 @@ I am passionate about problem solving and creativity in harmony. I love to learn
 <a href="https://github.com/stefanoelorga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoelorga&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-### Projects
+### Proyectos
 ### 🍗 El Ceibo
-I developed a dedicated page for "el Ceibo" an Argentine food place located in Spain. I used a combination of cutting-edge technologies, including React, Javascript, Tailwind, and Framer Motion, to achieve amazing results.
+Desarrollé una página dedicada a "el Ceibo", un lugar de comida argentina ubicado en España. Utilicé una combinación de tecnologías de vanguardia, incluidas React, Javascript, Tailwind y Framer Motion, para lograr resultados sorprendentes.
 
-With React, I was able to build an interactive and efficient user interface. I kept a state of the application efficiently. Thanks to this, I was able to focus on offering a smooth and attractive user experience.
+Con React, pude crear una interfaz de usuario interactiva y eficiente. Mantuve un estado de la aplicación de manera eficiente. Gracias a esto, pude concentrarme en ofrecer una experiencia de usuario fluida y atractiva.
 
-To achieve a sleek and attractive design, I was inspired by Tailwind CSS. This wonderful tool allowed me to use predefined classes to quickly style my components for a consistent look across the page. Additionally, Tailwind gave me the flexibility to customize and adjust the styles to my specific needs.
+Para lograr un diseño elegante y atractivo, me inspiré en Tailwind CSS. Esta maravillosa herramienta me permitió usar clases predefinidas para diseñar rápidamente mis componentes para una apariencia consistente en toda la página. Además, Tailwind me brindó la flexibilidad de personalizar y ajustar los estilos a mis necesidades específicas.
 
-See the page at [El Ceibo](https://elceibo.shop)
+Visitala [El Ceibo](https://elceibo.shop)
 
 ![ceibo](https://github.com/StefanoElorga/stefanoelorga/assets/71985848/254b7fc4-9659-4c37-9766-d703922f6401)
 
 
 
 ### 🚴‍♀️ LiberFiets
-It is a cycling app that records your ride, monitors your training and keeps track of your ride stats while you ride.
+Es una aplicación de ciclismo que registra tu recorrido, monitorea tu entrenamiento y realiza un seguimiento de las estadísticas de tu recorrido mientras conduces.
 
-• Technologies: React Native, Redux, CSS, Node JS, Express, Mongoose.
+• Tecnologías: React Native, Redux, CSS, Node JS, Express, Mongoose.
 
-• My main contribution to the project: Nesting and deleting friends, accepting and rejecting friend requests, friend list screen and request list, user search by similar name, main screen (Activity).
+• Mi principal contribución al proyecto: Anidar y eliminar amigos, aceptar y rechazar solicitudes de amistad, pantalla de lista de amigos y lista de solicitudes, búsqueda de usuarios por nombre similar, pantalla principal (Actividad).
 
 <img src="https://user-images.githubusercontent.com/71985848/164945070-a226b899-9b15-4acd-8f1d-31a8bb5422c1.png" width="50%">
 
