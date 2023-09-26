@@ -9,7 +9,7 @@ Encantado por aprender nuevas tecnologías y crear páginas web hermosas.
 Interesado en el desarrollo de aplicaciones móviles, e-commerces, redes sociales y mucho más. Algunas de mis habilidades son HTML, CSS, SASS, TailWind, JavaScript, React, ReactNative, Redux, NodeJS, Express, PostgreSQL y Sequelize. 
 
 * 🌍  Argentina, Buenos Aires
-* 🖥️  Mi portafolio  [My portfolio](https://stefanoelorga.vercel.app)
+* 🖥️  Mi portafolio https://portfolio-stefano.vercel.app
 * ✉️  Contactame [stefanoelorga22@gmail.com](mailto:stefanoelorga22@gmail.com)
 * 🤝  Estoy abierto a colaborar en aplicaciones moviles y páginas webs
 
